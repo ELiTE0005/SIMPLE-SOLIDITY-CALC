@@ -1,0 +1,26 @@
+Transaction Hash:
+0x54678fdd2c738dd05f35dcc80f3b97f2f884a781147556dfe3d8815d9febb703 
+Status:
+Success
+Block:
+5437169
+2 Block Confirmations
+Timestamp:
+17 secs ago (Mar-07-2024 07:27:48 PM +UTC)
+Transaction Action:
+Call
+0x60806040
+Method by
+0xb466319D...6493205F6
+From:
+0xb466319D1A747aC6167a53ADd7C60526493205F6
+To:
+[  0x9377f3b416b151cf163f47d0158e317782459674 Created ] 
+Value:
+0 ETH
+($0.00)
+Transaction Fee:
+0.000376099975228352 ETH
+($0.00)
+Gas Price:
+1.606056877 Gwei (0.000000001606056877 ETH)
